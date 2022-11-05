@@ -1,1 +1,1 @@
-# IBM-Capstone-Plotly-Charts
+# IBM-Applied-Datascience-Capstone 
